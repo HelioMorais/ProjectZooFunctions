@@ -14,5 +14,5 @@ function getEmployeeByName(employeeName) {
     firstName === employeeName || lastName === employeeName) || {};
 }
 
-console.log(getEmployeeByName('Bethea'));
+console.log(getEmployeeByName('Ola'));
 module.exports = getEmployeeByName;
